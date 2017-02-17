@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test12/03</string>
+    <string name="member">會員管理系統</string>
+    <string name="product">產品管理系統</string>
+    <string name="company">廠商聯絡系統</string>
+    <string name="advertising">廣告廠商系統</string>
+    <string name="product_name">貨品名稱</string>
+    <string name="product_unit">基本單位</string>
+    <string name="product_unit_pack">包</string>
+    <string name="product_standard">規格</string>
+</resources>
